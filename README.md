@@ -28,6 +28,7 @@ The following tools helped us in the creation of our project:
 
 # Contributors
 - Muhammad Qalb E Ali
+- Syed Ali raza
 - Musaib Gillani
 - Daniyal Shah
 - Muhammad Tayyab
